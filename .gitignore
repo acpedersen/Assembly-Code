@@ -1,8 +1,8 @@
 #Untracked File Types:
-*.
-*.lst
-*.o
+*
+!*.asm
 
 #Untracked Files:
 CPsub64.*
+Macros_CPsub64.*
 asmlnk.*
